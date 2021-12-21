@@ -1,0 +1,3 @@
+cara menjalankan aplikasi :
+1. laptop yang sudah di install Java 
+2. Jalankan Aplikasi 'SPK-Penentuan-Jurusan-SMK-TOPSIS.jar' yang ada di dalam folder 'dist'
